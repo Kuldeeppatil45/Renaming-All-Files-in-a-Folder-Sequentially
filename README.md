@@ -11,10 +11,10 @@ Handles invalid folder paths and permission issues gracefully.
 Skips empty folders or non-renamable files.
 
 ## Usage:
-Save the script to a file, e.g., rename_files.py.
+Save the script to a file, e.g., RenamingFiles.py.py.
 
 ## Run the script:
-python rename_files.py
+python RenamingFiles.py.py
 Enter the folder path when prompted.
 
 ## Example:
